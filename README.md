@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anita Nkwocha
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning JAVASCRIPT
+- 👀 I’m interested in WEB DEVELOPMENT and SOFTWARE ENGINEERING
 - 📫 How to reach me - anita.nkwocha18@gmail.com
 
 <!---
